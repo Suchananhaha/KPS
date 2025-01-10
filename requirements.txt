@@ -1,0 +1,7 @@
+numpy
+scipy
+opencv-python
+matplotlib
+tqdm
+h5py
+ultralytics
